@@ -8,15 +8,15 @@ Essa captura só funciona para vídeos que são abertos via **Browser**.
 
 No Windows, proximo ao relógio, clicar com o botão direito no alto-falante e selecionar *Open Sound settings*
 
-![Capture%20Desktop/Untitled.png](Capture%20Desktop/Untitled.png)
+![README/Untitled.png](README/Untitled.png)
 
 Em **Output,** clicar em *Manage sound devices*
 
-<img src="Capture%20Desktop/Untitled%201.png" alt="Capture%20Desktop/Untitled%201.png" style="zoom:80%;" />
+<img src="README/Untitled%201.png" alt="README/Untitled%201.png" style="zoom:80%;" />
 
 Se no **input**, tiver o Stereo Mix desabilitado, habilite-o
 
-<img src="Capture%20Desktop/Untitled%202.png" alt="Capture%20Desktop/Untitled%202.png" style="zoom:80%;" />
+<img src="README/Untitled%202.png" alt="README/Untitled%202.png" style="zoom:80%;" />
 
 ## Baixar o FFMPEG
 
@@ -34,7 +34,7 @@ Para iniciar a aplicação, clicar em **main.exe**
 
 Vai abrir uma janela de prompt e uma janela tkinter (deixar as duas abertas)
 
-<img src="Capture%20Desktop/Untitled%203.png" alt="Capture%20Desktop/Untitled%203.png" style="zoom:80%;" />
+<img src="README/Untitled%203.png" alt="README/Untitled%203.png" style="zoom:80%;" />
 
 ### **File name**
 
